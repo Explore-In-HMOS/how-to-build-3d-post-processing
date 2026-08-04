@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "effect_bloom_glow",
+      "value": "Bloom Glow"
+    },
+    {
+      "name": "effect_tone_mapping",
+      "value": "Tone Mapping"
+    },
+    {
+      "name": "tone_aces",
+      "value": "ACES"
+    },
+    {
+      "name": "tone_aces_2020",
+      "value": "ACES 2020"
+    },
+    {
+      "name": "tone_filmic",
+      "value": "Filmic"
+    },
+    {
+      "name": "effect_exposure",
+      "value": "Exposure  %s"
+    },
+    {
+      "name": "effect_bloom_scatter",
+      "value": "Bloom Scatter  %s"
+    },
+    {
+      "name": "effect_vignette",
+      "value": "Vignette"
+    },
+    {
+      "name": "effect_color_fringe",
+      "value": "Color Fringe"
+    },
+    {
+      "name": "effect_index_glow",
+      "value": "Index Glow  %s"
+    },
+    {
+      "name": "btn_effects_open",
+      "value": "⚙ Effects"
+    },
+    {
+      "name": "btn_effects_close",
+      "value": "✕ Close"
+    },
+    {
+      "name": "section_presets",
+      "value": "PRESETS"
+    },
+    {
+      "name": "section_view",
+      "value": "VIEW"
+    },
+    {
+      "name": "view_zoom",
+      "value": "Zoom  %s"
+    },
+    {
+      "name": "view_auto_rotate",
+      "value": "Auto Rotate"
+    },
+    {
+      "name": "effect_model_color",
+      "value": "Model Color"
+    },
+    {
+      "name": "view_background",
+      "value": "Background"
+    },
+    {
+      "name": "btn_reset",
+      "value": "↺ Reset All"
+    }
+  ]
+}
