@@ -73,4 +73,4 @@ entry/src/main/
 # License
 
 How to build 3d post processing is distributed under the terms of the MIT License.
-See the [LICENSE](https://codehub-g.huawei.com/hms---turkey-dtse-branch/Harmony_OS_Next_Target/Codelab/Wearable/how-to-build-3d-post-processing/files?ref=master&isFile=true&filePath=LICENSE) for more information.
+See the [LICENSE](LICENSE) for more information.
